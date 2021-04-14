@@ -1,4 +1,4 @@
-.banner {
+.hatter {
   height: 400px;
   max-width: 700px;
   margin: 40px auto 40px auto;
@@ -6,7 +6,7 @@
   display: flex;
 }
 
-.center-me {
+.kozep {
   color: #FFF;
   font-size: 50px;
   margin: auto;

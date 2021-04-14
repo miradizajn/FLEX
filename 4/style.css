@@ -1,4 +1,4 @@
-.fixed-size-container {
+.egybe {
     max-width: 1400px;
     margin: 40px auto 0 auto;
     background-color: #FFF;
@@ -9,7 +9,7 @@
     flex-wrap: wrap;
   }
   
-  .fixed-size {
+  .doboz {
     width: 150px;
     height: 100px;
     background-color: #990b47;

@@ -3,7 +3,7 @@ body {
 }
 
 
-.column-layout {
+.osszes {
   max-width: 1300px;
   background-color: #FFF;
   margin: 40px auto 0 auto;
@@ -12,17 +12,17 @@ body {
   display: flex;
 }
 
-.main-column {
+.elsodleges {
   flex: 3;
   order: 2;
 }
 
-.sidebar-one {
+.bal {
   flex: 1;
   order: 1;
 }
 
-.sidebar-two {
+.jobb {
   flex: 1;
   order: 3;
 }
